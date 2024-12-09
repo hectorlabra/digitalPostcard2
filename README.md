@@ -19,11 +19,6 @@ El proyecto consta de dos archivos principales:
 1. `postcard.html`: Contiene la estructura HTML de la tarjeta postal.
 2. `styles.css`: Contiene los estilos CSS aplicados a la tarjeta postal.
 
-## Instrucciones
-
-1. Clona este repositorio en tu entorno de desarrollo.
-2. Abre los archivos `postcard.html` y `styles.css` en tu editor de código.
-3. Abre `postcard.html` en tu navegador para ver la tarjeta postal.
 
 ## Contenido de `postcard.html`
 
@@ -53,9 +48,6 @@ El formulario incluye los siguientes campos:
 
 Se ha importado la fuente `Roboto` desde Google Fonts para mejorar la apariencia del texto en la tarjeta postal.
 
-## Vista Previa
-
-![Vista Previa de la Tarjeta Postal](https://storage.googleapis.com/breathecode-asset-images/5318bde604cf5c915f94897a71b49ab2523101322ea21cb046db1e67c24fa3be.png)
 
 ## Contribuciones
 
